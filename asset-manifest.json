@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ganeshnikale.github.io/sugary/static/css/main.03126b07.css",
-    "main.js": "/ganeshnikale.github.io/sugary/static/js/main.84f7df79.js",
-    "static/js/453.2736cf4a.chunk.js": "/ganeshnikale.github.io/sugary/static/js/453.2736cf4a.chunk.js",
-    "index.html": "/ganeshnikale.github.io/sugary/index.html",
-    "main.03126b07.css.map": "/ganeshnikale.github.io/sugary/static/css/main.03126b07.css.map",
-    "main.84f7df79.js.map": "/ganeshnikale.github.io/sugary/static/js/main.84f7df79.js.map",
-    "453.2736cf4a.chunk.js.map": "/ganeshnikale.github.io/sugary/static/js/453.2736cf4a.chunk.js.map"
+    "main.css": "/sugary/static/css/main.03126b07.css",
+    "main.js": "/sugary/static/js/main.aad417a6.js",
+    "static/js/453.2736cf4a.chunk.js": "/sugary/static/js/453.2736cf4a.chunk.js",
+    "index.html": "/sugary/index.html",
+    "main.03126b07.css.map": "/sugary/static/css/main.03126b07.css.map",
+    "main.aad417a6.js.map": "/sugary/static/js/main.aad417a6.js.map",
+    "453.2736cf4a.chunk.js.map": "/sugary/static/js/453.2736cf4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03126b07.css",
-    "static/js/main.84f7df79.js"
+    "static/js/main.aad417a6.js"
   ]
 }
