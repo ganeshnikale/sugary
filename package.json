@@ -2,7 +2,6 @@
   "name": "sugary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/ganeshnikale.github.io/sugary",
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
     "@testing-library/dom": "^10.4.0",
